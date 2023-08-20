@@ -1,2 +1,3 @@
 # Form-Validation
-https://64e2047befff1a5ff642464e--charming-flan-6a776d.netlify.app/
+This JavaScript Tutorial helps you learn the JavaScript programming language from scratch quickly and effectively.
+https://www.javascripttutorial.net/
